@@ -19,5 +19,5 @@ server:
 env:
   test3
 girl:
-  name: lili
-  age: 18
+  name: mary
+  age: 20
