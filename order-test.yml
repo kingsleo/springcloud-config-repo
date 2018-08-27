@@ -10,6 +10,11 @@ spring:
       show-sql: true
   main:
     allow-bean-definition-overriding: true
+  rabbitmq:
+    host: http://localhost
+    username: guest
+    password: guest
+    port: 5672
 eureka:
   client:
     service-url:
